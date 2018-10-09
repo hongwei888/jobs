@@ -1,4 +1,4 @@
-工作地点：北京
+#工作地点：北京
 
 简历发送邮箱：qinhongwei@xy51.com
 
@@ -14,7 +14,9 @@
 要求：
 
 具有2年以上前端开发经验，熟练使用各种Web前端技术，包括HTML/CSS/JavaScript等；
+
 深刻理解Web标准，对可用性、可访问性等相关知识有实际的了解和实践经验；
+
 熟练使用微信小程序开发框架及组件;
 能够使用jQuery、VUE、Angular.js等主流JavaScript库框架；
 对HTML5/CSS3有一定的了解和使用；
