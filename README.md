@@ -2,7 +2,7 @@
 
 简历发送邮箱：qinhongwei@xy51.com
 
-了解小y游戏：https://www.xy51.com
+了解我们：http://www.xy51.com
 
 
 前端开发工程师
@@ -17,7 +17,7 @@
 深刻理解Web标准，对可用性、可访问性等相关知识有实际的了解和实践经验；
 熟练使用微信小程序开发框架及组件;
 能够使用jQuery、VUE、Angular.js等主流JavaScript库框架；
-对HTML5CSS3有一定的了解和使用；
+对HTML5/CSS3有一定的了解和使用；
 富有责任心与团队精神，具备良好的沟通能力与积极工作的心态，认真踏实；
 能够站在最终用户角度看待问题。
 对angular.js，react.js，vue.js有开发使用经验者优先；
